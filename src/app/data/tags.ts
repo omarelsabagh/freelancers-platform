@@ -1,0 +1,16 @@
+export const tags = [
+  "App Development",
+  "Programming & Tech",
+  "UI Design",
+  "Video & Animation",
+  "Writing & Translation<",
+  "Music & Audio",
+  "Consulting",
+  "Photography",
+  "Digital Marketing",
+  "Business",
+  "AI Services",
+  "Blog",
+  "Automation",
+  "Machismes",
+];

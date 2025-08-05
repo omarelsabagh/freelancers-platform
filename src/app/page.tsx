@@ -1,3 +1,9 @@
+import ScrollableTags from "./sections/ScrollableTags/page";
+
 export default function Home() {
-  return <div></div>;
+  return (
+    <>
+      <ScrollableTags />
+    </>
+  );
 }
